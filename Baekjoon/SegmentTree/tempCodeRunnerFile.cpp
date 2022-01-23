@@ -1,5 +1,1 @@
-for(int j=1; j<=tree.size(); j++)
-        {
-            printf("%lld ",tree[j]);
-        }
-        printf("\n");
+    cout << query(tree, data, 1, n, 1, tx, ty) << "\n";
