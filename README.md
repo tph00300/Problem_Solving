@@ -1,6 +1,7 @@
 # Problem_Solving
 
 # 알고리즘 실력 쌓기 프로젝트 - 2021/04/24 ~
+# 1 DAY 1 SOLVE
 
 ## 처음부터 하나하나 풀어가봅니다.
 
@@ -11,4 +12,5 @@
 
 
 ## 현재 진행중 알고리즘
- - Segment Tree
+ - Segment Tree (~2022.03.22)
+ - Topological Sort (2022.03.24~)
