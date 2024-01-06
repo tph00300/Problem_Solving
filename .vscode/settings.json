@@ -69,6 +69,10 @@
     "iomanip": "cpp",
     "regex": "cpp",
     "span": "cpp",
-    "thread": "cpp"
+    "thread": "cpp",
+    "list": "cpp",
+    "forward_list": "cpp",
+    "ranges": "cpp",
+    "version": "cpp"
   }
 }
